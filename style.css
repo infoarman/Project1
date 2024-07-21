@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    color: rgb(255, 255, 255) !important;
+    font-weight: 500;
+}
+
+.menu{
+    position: fixed;
+    z-index: 2;
+    width: 100%;
+}
